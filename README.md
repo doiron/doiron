@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doiron
 - 👀 I’m interested in all the things
-- 🌱 I’m currently learning AWS CDK
+- 🌱 I’m currently learning stuffs
 - 💞️ I’m looking to collaborate on stuffs
 - 📫 How to reach me doiron@live.com
 
